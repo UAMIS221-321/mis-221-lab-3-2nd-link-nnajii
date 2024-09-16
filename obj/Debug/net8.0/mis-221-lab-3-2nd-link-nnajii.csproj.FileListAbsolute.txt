@@ -1,0 +1,15 @@
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/bin/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/bin/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.deps.json
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/bin/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.runtimeconfig.json
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/bin/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.dll
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/bin/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.pdb
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.AssemblyInfoInputs.cache
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.AssemblyInfo.cs
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.csproj.CoreCompileInputs.cache
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.sourcelink.json
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.dll
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-nnajii.dll
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.pdb
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/mis-221-lab-3-2nd-link-nnajii.genruntimeconfig.cache
+/Users/kingjordan1/Repos/lab3/mis-221-lab-3-2nd-link-nnajii/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-nnajii.dll
